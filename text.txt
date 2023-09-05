@@ -1,0 +1,1 @@
+In this straightforward AI application, I created a decision-making "Capybara" character that utilizes a random number generator, ranging from 0 to 3, to determine its movement direction—left, right, up, or down.
